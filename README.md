@@ -1,13 +1,15 @@
 # PINNs (Physics-informed Neural Networks)
 
-------------------------
+This is a another simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** based on [jayroxis/PINNs](https://github.com/jayroxis/PINNs).
+
+In this repository, a replica of solving WAVE EQUATION is done, following the experiment setup mentioned in the article:
+
+@Article{app10175917,
+AUTHOR = {Guo, Yanan and Cao, Xiaoqun and Liu, Bainian and Gao, Mei},
+TITLE = {Solving Partial Differential Equations Using Deep Learning and Physical Constraints}, DOI = {10.3390/app10175917}}
 
 
-This is a simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** and ***Tensorflow***.
-
--------------------------------------------
-
-## Attribute
+## Credit
 
 **Original Work**: *Maziar Raissi, Paris Perdikaris, and George Em Karniadakis*
 
@@ -28,20 +30,3 @@ This is a simple implementation of the Physics-informed Neural Networks (PINNs) 
   journal={arXiv preprint arXiv:1711.10566},
   year={2017}
 }
-
--------------------------------------------
-
-## Dependencies
-
-Major Dependencies:
-
- - ***Tensorflow (for Tensorflow Implementation)***: ```pip install --upgrade tensorflow```
- - ***PyTorch (for PyTorch Implementation)***: ```pip install --upgrade torch``
- - ***Jupyter Notebook/Lab***: ```pip install jupyterlab``` (JupyterLab) or ```pip install notebook```
-
-Peripheral Dependencies:
- 
- - ***numpy***: ```pip install numpy```
- - ***seaborn***: ```pip install seaborn```
- - ***matplotlib***: ```pip install matplotlib```
- - ***pyDOE (for Tensorflow Implementation)***: ```pip install pyDOE```
