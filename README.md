@@ -1,13 +1,12 @@
 # PINNs (Physics-informed Neural Networks)
 
-This is a another simple implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** based on [jayroxis/PINNs](https://github.com/jayroxis/PINNs).
+A implementation of the Physics-informed Neural Networks (PINNs) using ***PyTorch*** was amazingly done by [jayroxis/PINNs](https://github.com/jayroxis/PINNs).
 
-In this repository, a replica of solving WAVE EQUATION is done, following the experiment setup mentioned in the article:
+In this repository, solving WAVE EQUATION using PINN is replicated, following some experiment setup and procedures mentioned in the article:
 
 @Article{app10175917,
 AUTHOR = {Guo, Yanan and Cao, Xiaoqun and Liu, Bainian and Gao, Mei},
 TITLE = {Solving Partial Differential Equations Using Deep Learning and Physical Constraints}, DOI = {10.3390/app10175917}}
-
 
 ## Credit
 
