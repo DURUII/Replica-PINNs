@@ -1,0 +1,16 @@
+FLAML==1.2.4
+joblib==1.3.1
+lightgbm==4.0.0
+catboost
+matplotlib==3.7.2
+numpy==1.23.5
+pandas==2.0.3
+plotly==5.6.0
+SciencePlots==2.1.0
+LovelyPlots
+scikit_learn==1.3.0
+seaborn==0.12.2
+tqdm==4.64.0
+ydata_profiling==4.3.1
+jupyter
+torch
